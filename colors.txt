@@ -2,3 +2,6 @@ blue
 red
 white
 black
+Ice cream white
+cake brown
+coca cola red
