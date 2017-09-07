@@ -2,6 +2,12 @@ blue
 red
 white
 black
+<<<<<<< HEAD
 Ice cream white
 cake brown
-coca cola red
+coca cola redcoca cola red
+=======
+banana yellow
+peach pink
+apple red
+>>>>>>> feature1
